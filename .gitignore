@@ -60,6 +60,42 @@ recipes/xd_joindomain.rb
 recipes/ccpstack_cctxadmin.rb
 recipes/dass_tenants.rb
 
+#spec
+spec/unit/recipes/ccpstack_ctxadmin.rb
+spec/unit/recipes/ccpstack_citrixOUs.rb
+spec/unit/recipes/daas_citrixOUs.rb
+spec/unit/recipes/daas_createdomain.rb
+spec/unit/recipes/daas_ctxadmin.rb
+spec/unit/recipes/daas_joindomain.rb
+spec/unit/recipes/daas_MSO.rb
+spec/unit/recipes/daas_nasdaqusers.rb
+spec/unit/recipes/daas_tenants.rb
+spec/unit/recipes/higley_creatusers.rb
+spec/unit/recipes/higley_creategroups.rb
+spec/unit/recipes/higley_MSO.rb
+spec/unit/recipes/higley_createusers.rb
+spec/unit/recipes/higleycloud_creategroups.rb
+spec/unit/recipes/higleycloud_createusers.rb
+spec/unit/recipes/higleycloud_MSO.rb
+spec/unit/recipes/mcpcb_createdomain.rb
+spec/unit/recipes/mcpcb_createOUs.rb
+spec/unit/recipes/mcpcb_users.rb
+spec/unit/recipes/mcpcbackup_CitrixOus.rb
+spec/unit/recipes/mcpcbackup_createdomain.rb
+spec/unit/recipes/mcpcbackup_ctxadmin.rb
+spec/unit/recipes/mcpcbackup_joindomain.rb
+spec/unit/recipes/mcpch_createdomain.rb
+spec/unit/recipes/mcpch_createOUs.rb
+spec/unit/recipes/mcpch_users.rb
+spec/unit/recipes/mso_createdomain.rb
+spec/unit/recipes/mso_joindomain.rb
+spec/unit/recipes/mso_users.rb
+spec/unit/recipes/xd_citrixOUs.rb
+spec/unit/recipes/xd_createdomain.rb
+spec/unit/recipes/xd_ctxadmin.rb
+spec/unit/recipes/xd_joindomain.rb
+spec/unit/recipes/ccpstack_cctxadmin.rb
+spec/unit/recipes/dass_tenants.rb
 
 
 
