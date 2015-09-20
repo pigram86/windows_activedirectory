@@ -1,0 +1,136 @@
+.vagrant
+Berksfile.lock
+.berksfile/*
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+/cookbooks
+
+# Bundler
+Gemfile.lock
+bin/*
+.bundle/*
+
+# Chef
+.chef/*.pem
+.chef/*.rb
+.chef/*.*
+.chef/encrypted_data_bag_secret
+
+# Attributes
+
+
+# Recipes
+recipes/ccpstack_ctxadmin.rb
+recipes/ccpstack_citrixOUs.rb
+recipes/daas_citrixOUs.rb
+recipes/daas_createdomain.rb
+recipes/daas_ctxadmin.rb
+recipes/daas_joindomain.rb
+recipes/daas_MSO.rb
+recipes/daas_nasdaqusers.rb
+recipes/daas_tenants.rb
+recipes/higley_creatusers.rb
+recipes/higley_creategroups.rb
+recipes/higley_MSO.rb
+recipes/higleycloud_creategroups.rb
+recipes/higleycloud_createusers.rb
+recipes/higleycloud_MSO.rb
+recipes/mcpcb_createdomain.rb
+recipes/mcpcb_createOUs.rb
+recipes/mcpcb_users.rb
+recipes/mcpcbackup_CitrixOus.rb
+recipes/mcpcbackup_createdomain.rb
+recipes/mcpcbackup_ctxadmin.rb
+recipes/mcpcbackup_joindomain.rb
+recipes/mcpch_createdomain.rb
+recipes/mcpch_createOUs.rb
+recipes/mcpch_users.rb
+recipes/mso_createdomain.rb
+recipes/mso_joindomain.rb
+recipes/mso_users.rb
+recipes/xd_citrixOUs.rb
+recipes/xd_createdomain.rb
+recipes/xd_ctxadmin.rb
+recipes/xd_joindomain.rb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Ruby
+.rake_test_cache
+.rvmrc
+.rbenv-version
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+
+# Emacs org-mode
+.org-id-locations
+*_archive
+
+# SublimeText
+*.sublime-workspace
+
+# TextMate
+*.tmproj
+*.tmproject
+tmtags
+
+# Vim
+.*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+.kitchen/
+.kitchen.local.yml
+
+
