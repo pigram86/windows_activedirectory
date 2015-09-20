@@ -57,6 +57,8 @@ recipes/xd_citrixOUs.rb
 recipes/xd_createdomain.rb
 recipes/xd_ctxadmin.rb
 recipes/xd_joindomain.rb
+recipes/ccpstack_cctxadmin.rb
+recipes/dass_tenants.rb
 
 
 
