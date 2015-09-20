@@ -36,6 +36,7 @@ recipes/daas_tenants.rb
 recipes/higley_creatusers.rb
 recipes/higley_creategroups.rb
 recipes/higley_MSO.rb
+recipes/higley_createusers.rb
 recipes/higleycloud_creategroups.rb
 recipes/higleycloud_createusers.rb
 recipes/higleycloud_MSO.rb
